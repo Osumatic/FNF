@@ -3,3 +3,4 @@ This is a skin for 4K/8K osu!mania that replicates as closely as possible the Fr
 
 Friday Night Funkin' is a vertical scrolling rhythm game made by ninja_muffin99. [Go check it out!!](https://ninja-muffin24.itch.io/funkin) Though to be fair if you're here, you've almost definitely played the game before.
 
+[Download .osk](https://github.com/Saltssaumure/fnf-osu-mania-skin/raw/master/Friday%20Night%20Funkin'.osk)
