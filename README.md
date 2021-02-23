@@ -8,7 +8,7 @@ This is a skin for 4K/8K osu!mania in the style of Friday Night Funkin'. I recom
 ![Screenshot of FNF skin, playing 4K osu!mania, with long notes.](https://raw.githubusercontent.com/Saltssaumure/fnf-osu-mania-skin/master/screenshots/4k%20long%20notes.jpg)
 
 ## Install
-1. [Download the .osk](https://github.com/Saltssaumure/fnf-osu-mania-skin/raw/master/Friday%20Night%20Funkin'.osk) to anywhere on your computer.
+1. [Download the .osk](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/download/v1.1/Friday.Night.Funkin.osk) to anywhere on your computer.
 2. Doubleclick the file to import the skin to osu!
 3. That's all, have fun!
 
