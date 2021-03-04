@@ -12,6 +12,16 @@ This is a skin for 4K/8K osu!mania in the style of Friday Night Funkin'. I recom
 2. Doubleclick the file to import the skin to osu!
 3. That's all, have fun!
 
+## FAQ
+Q: Can you make a downscroll version?  
+A: You can easily do this yourself! Go to Options > osu!mania layout > disable "Vertically flip playfield (DDR style)".
+
+Q: What modes does the skin support?  
+A: Full support for 4K and 8K osu!mania, partial support for osu!standard and mania in other key modes. 
+
+Q: I have the skin selected but it looks like the default skin, how do I fix this?  
+A: Download the latest version of the skin at https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest. Early versions did not support resolutions below 800 pixels tall.
+
 ## Major changelog
 - V0.0 - Initial release.
 - V1.0 - Added hitsounds.
