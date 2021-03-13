@@ -28,7 +28,7 @@ A: Download the latest version of the skin at https://github.com/Saltssaumure/fn
 - V1.0 - Added hitsounds.
 - V1.1 - Added support for resolutions below 800 pixels tall.
 - V1.2 - Added downscroll support.
-- (UPCOMING) V1.3 - Improved support for other modes, improved hitsounds. 
+- V1.3 - Improved support for other modes, improved hitsounds. 
 
 ## Links
 [Follow me on Twitter!](https://twitter.com/Saltssaumure)  
