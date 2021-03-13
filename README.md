@@ -17,7 +17,8 @@ Q: Can you make a downscroll version?
 A: You can easily do this yourself! Go to Options > osu!mania layout > disable "Vertically flip playfield (DDR style)".
 
 Q: What modes does the skin support?  
-A: Full support for 4K and 8K osu!mania, partial support for osu!standard and mania in other key modes. 
+A: Full support for: 4K and 8K osu!mania, osu!catch  
+   Partial support for: other osu!mania keymodes up to 7K, osu!standard 
 
 Q: I have the skin selected but it looks like the default skin, how do I fix this?  
 A: Download the latest version of the skin at https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest. Early versions did not support resolutions below 800 pixels tall.
@@ -27,6 +28,7 @@ A: Download the latest version of the skin at https://github.com/Saltssaumure/fn
 - V1.0 - Added hitsounds.
 - V1.1 - Added support for resolutions below 800 pixels tall.
 - V1.2 - Added downscroll support.
+- (UPCOMING) V1.3 - Improved support for other modes, improved hitsounds. 
 
 ## Links
 [Follow me on Twitter!](https://twitter.com/Saltssaumure)  
