@@ -1,0 +1,10 @@
+There are two Skin.ini files included in this skin.
+
+Full Size:
+- 1K-8K keymodes use the full size arrows. If you were to fullscreen FNF on a 1080p monitor, this is how the arrows would look.
+- 9K and higher keymodes use mini arrows due to space restrictions. Close to default windows resolution FNF arrow size. 
+
+Mini Size:
+- All keymodes, 1K-18K, use mini arrows.
+
+There are no other differences between the Skin.ini files.
