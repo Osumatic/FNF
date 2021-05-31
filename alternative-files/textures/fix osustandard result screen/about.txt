@@ -1,0 +1,1 @@
+If you want a normal looking osu!standard ranking screen (and normal circles in editor), replace the files in the main folder with these ones.
