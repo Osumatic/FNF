@@ -2,10 +2,8 @@
 This is a skin for osu! in the style of Friday Night Funkin'.
 
 ## Skin preview
-[Watch skin demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
-![Screenshot of FNF skin, playing 8K co-op osu!mania, with regular notes.](https://github.com/Saltssaumure/fnf-osu-mania-skin/blob/master/screenshots/8k%20notes.jpg?raw=true)
-![Screenshot of FNF skin, playing 4K osu!mania, with regular notes.](https://raw.githubusercontent.com/Saltssaumure/fnf-osu-mania-skin/master/screenshots/4k%20notes.jpg)
-![Screenshot of FNF skin, playing 4K osu!mania, with long notes.](https://raw.githubusercontent.com/Saltssaumure/fnf-osu-mania-skin/master/screenshots/4k%20long%20notes.jpg)
+[Watch full skin demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)
+[Watch mini arrows demonstration on YouTube](https://www.youtube.com/watch?v=1ner8Cbh1GE)
 
 ## Install
 1. Download the .osk from [here](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest) to anywhere on your computer.
@@ -29,7 +27,7 @@ A: Download the latest version of the skin at https://github.com/Saltssaumure/fn
 - V1.0 - Added hitsounds.
 - V1.1 - Added support for resolutions below 800 pixels tall.
 - V1.2 - Added downscroll support.
-- V1.3 - Improved support for other modes, improved hitsounds. 
+- V1.3 - Improved support for non-mania modes, improved hitsounds. 
 - V1.4 - Added mini arrows, added support for all keymodes.
 
 ## Links
