@@ -1,5 +1,5 @@
-# For playstesting
-DON'T FORGET TO ADD SKIN.INI FROM /ALTERNATE-FILES/
+# If compiled
+Don't forget to add a ``skin.ini`` from ``/alternative-files/``
 
 # Original skin
 https://github.com/Saltssaumure/fnf-osu-mania-skin
