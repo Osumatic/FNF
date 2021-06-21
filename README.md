@@ -29,9 +29,9 @@ A: Full support for: All keymodes osu!mania, osu!catch
 - V1.5 - Added pixel (FNF Week 6) style 
 
 ## Links
-[Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)
+[Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)  
 [Follow me on Twitter!](https://twitter.com/Saltssaumure)  
-[Send a message on osu!](https://osu.ppy.sh/users/10071266)
+[Send a message on osu!](https://osu.ppy.sh/users/10071266)  
 [Check out Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
 
 ## If compiled
