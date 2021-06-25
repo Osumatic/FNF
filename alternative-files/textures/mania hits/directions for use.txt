@@ -1,0 +1,6 @@
+Place the mania-hit0.png file into osu!/[FNF skin folder]
+Place the folder named hit or hitpixel into osu!/[FNF skin folder]/mania
+
+You may want to make a backup of the original folder before replacing, in case you wish to switch back later.
+
+The actual name of [FNF skin folder] varies depending on when/where you obtained the skin.
