@@ -1,4 +1,4 @@
-There are eight Skin.ini files included in this skin.
+There are three Skin.ini files included in this skin.
 
 Full Size:
 - 1K-8K keymodes use the full size arrows. If you were to fullscreen FNF on a 1080p monitor, this is how the arrows would look.
@@ -7,10 +7,7 @@ Full Size:
 Mini Size:
 - All keymodes, 1K-18K, use mini arrows.
 
-Pixel:
-- Arrows and numbers are pixellated, in FNF Week 6 style.
-
-Shaggy's Full / Mini / Full Pixel / Mini Pixel:
+Shaggy's Full Size / Mini Size:
 - Same as above, except note layouts and colour of the !mania notes are changed to be more accurate to the Shaggy mod.
 - Supports 1K-18K full-size, mini-size, pixel notes and mini pixel notes.
 
