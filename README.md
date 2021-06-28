@@ -2,7 +2,7 @@
 This is a skin for osu! in the style of Friday Night Funkin'.
 
 ## Skin preview
-[Watch full skin demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)
+[Watch full skin demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
 [Watch mini arrows demonstration on YouTube](https://www.youtube.com/watch?v=1ner8Cbh1GE)
 
 ## Install
@@ -19,9 +19,6 @@ A: Full support for: All keymodes osu!mania, osu!catch
    Partial support for: osu!standard  
    Upcoming version: osu!taiko support
 
-Q: I have the skin selected but it looks like the default skin, how do I fix this?  
-A: Download the latest version of the skin at https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest. Early versions did not support resolutions below 800 pixels tall.
-
 ## Major changelog
 - V0.0 - Initial release.
 - V1.0 - Added hitsounds.
@@ -29,9 +26,13 @@ A: Download the latest version of the skin at https://github.com/Saltssaumure/fn
 - V1.2 - Added downscroll support.
 - V1.3 - Improved support for non-mania modes, improved hitsounds. 
 - V1.4 - Added mini arrows, added support for all keymodes.
+- V1.5 - Added pixel (FNF Week 6) style 
 
 ## Links
+[Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)  
 [Follow me on Twitter!](https://twitter.com/Saltssaumure)  
-[Send a message on osu!](https://osu.ppy.sh/users/10071266)
+[Send a message on osu!](https://osu.ppy.sh/users/10071266)  
 [Check out Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
 
+## If compiled
+Don't forget to add a ``skin.ini`` from ``/alternative-files/``
