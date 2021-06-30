@@ -1,0 +1,1 @@
+Drop these files in the main skin folder.
