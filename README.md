@@ -25,7 +25,7 @@ A: Full support for all modes - osu!mania, osu!catch, osu!standard, osu!taiko.
 - V1.3 - Improved support for non-mania modes, improved hitsounds. 
 - V1.4 - Added mini arrows, added support for all keymodes.
 - V1.5 - Added pixel (FNF Week 6) style.
-- V1.6 - Added Shaggy style for osu!mania (thanks to [Lumyni](https://github.com/flxLumyni) and added osu!taiko support.
+- V1.6 - Added Shaggy style for osu!mania (thanks to [Lumyni](https://github.com/flxLumyni)) and added osu!taiko support.
 
 ## Links
 [Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)  
