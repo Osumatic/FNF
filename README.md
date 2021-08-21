@@ -23,9 +23,10 @@ A: Full support for all modes - osu!mania, osu!catch, osu!standard, osu!taiko.
 - V1.1 - Added support for resolutions below 800 pixels tall.
 - V1.2 - Added downscroll support.
 - V1.3 - Improved support for non-mania modes, improved hitsounds. 
-- V1.4 - Added mini arrows, added support for all keymodes.
+- V1.4 - Added mini arrows style, added support for all keymodes.
 - V1.5 - Added pixel (FNF Week 6) style.
 - V1.6 - Added Shaggy style for osu!mania (thanks to [Lumyni](https://github.com/flxLumyni)) and added osu!taiko support.
+- V1.7 - Added circle style for osu!mania.
 
 ## Links
 [Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)  
@@ -33,5 +34,5 @@ A: Full support for all modes - osu!mania, osu!catch, osu!standard, osu!taiko.
 [Send a message on osu!](https://osu.ppy.sh/users/10071266)  
 [Check out Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
 
-## If compiled
+## If downloading .zip file
 Don't forget to add a ``skin.ini`` from ``/alternative-files/``
