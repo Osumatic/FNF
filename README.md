@@ -2,7 +2,7 @@
 This is a skin for osu! in the style of Friday Night Funkin'.
 
 ## Skin preview
-[Watch 1.4-1.7 demonstration on YouTube](https://www.youtube.com/watch?v=cGFTVWtTrOI)
+[Watch 1.4-1.7 demonstration on YouTube](https://www.youtube.com/watch?v=cGFTVWtTrOI)  
 [Watch 1.2-1.3 demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
 
 ## Install
