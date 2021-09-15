@@ -2,8 +2,8 @@
 This is a skin for osu! in the style of Friday Night Funkin'.
 
 ## Skin preview
-[Watch full skin demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
-[Watch mini arrows demonstration on YouTube](https://www.youtube.com/watch?v=1ner8Cbh1GE)
+[Watch 1.4-1.7 demonstration on YouTube](https://www.youtube.com/watch?v=cGFTVWtTrOI)
+[Watch 1.2-1.3 demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
 
 ## Install
 1. Download the .osk from [here](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest) to anywhere on your computer.
