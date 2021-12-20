@@ -1,4 +1,4 @@
-There are nine Skin.ini files included in this skin.
+There are 12 Skin.ini files included in this skin.
 
 
 # Sizes #
@@ -20,4 +20,7 @@ Shaggy's:
 - Arrow layout and colours changed to the Shaggy mod style.
 
 Circle:
-- Arrows are changed to circles. This version currently uses Shaggy's colours.
+- Arrows are changed to circles. This version uses Shaggy's colours.
+
+Crystal:
+- Arrows are changed to crystals (diamonds). This version uses Shaggy's colours.
