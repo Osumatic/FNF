@@ -4,8 +4,12 @@ There are 12 Skin.ini files included in this skin.
 # Sizes #
 
 Fullsize:
-- 1K-8K keymodes use the full size arrows. If you were to fullscreen FNF on a 1080p monitor, this is how the arrows would look.
-- 9K and higher keymodes use mini arrows due to space restrictions. Close to default windows resolution FNF arrow size. 
+- 1K-8K keymodes use the full size keys. If you were to fullscreen FNF on a 1080p monitor, this is how the keys would look.
+- 9K and higher keymodes use mini keys due to space restrictions. Close to default window resolution FNF key size. 
+
+Midsize:
+- 1K-9K keymodes use mid size keys, ~80% size of full size.
+- 10K and higher keymodes use mini keys due to space restrictions.
 
 Minisize:
 - All keymodes, 1K-18K, use mini arrows.
@@ -13,14 +17,20 @@ Minisize:
 
 # Styles #
 
+Original:
+- The original FNF arrows and colours.
+
 Pixel:
 - Arrows and numbers are pixellated, in FNF Week 6 style.
 
 Shaggy's:
 - Arrow layout and colours changed to the Shaggy mod style.
 
+Shaggy's Pixel:
+- Arrow layout and colours changed to the Shaggy mod style. Arrows and numbers are pixellated, in FNF Week 6 style.
+
 Circle:
-- Arrows are changed to circles. This version uses Shaggy's colours.
+- Keys are changed to circles. This style uses Shaggy's colours.
 
 Crystal:
-- Arrows are changed to crystals (diamonds). This version uses Shaggy's colours.
+- Keys are changed to crystals (diamonds). This style uses Shaggy's colours.

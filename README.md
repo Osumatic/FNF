@@ -6,7 +6,7 @@ This is a skin for osu! in the style of Friday Night Funkin'.
 [Watch 1.2-1.3 demonstration on YouTube](https://www.youtube.com/watch?v=RtrHGPJBn7o)  
 
 ## Install
-1. Download the .osk from [here](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest) to anywhere on your computer.
+1. Download the latest .osk from [here](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest) to anywhere on your computer.
 2. Doubleclick the file to import the skin to osu!
 3. That's all, have fun!
 
@@ -29,8 +29,7 @@ A: Full support for all modes - osu!mania, osu!catch, osu!standard, osu!taiko.
 - V1.7 - Added circle style for osu!mania.
 
 ## Links
-[Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)  
-[Follow me on Twitter!](https://twitter.com/Saltssaumure)  
+[Skin GitHub](https://github.com/Saltssaumure/fnf-osu-mania-skin)   
 [Send a message on osu!](https://osu.ppy.sh/users/10071266)  
 [Check out Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin)
 
