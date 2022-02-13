@@ -1,4 +1,8 @@
 # Friday Night Funkin' osu! Skin
+[![GitHub Downloads](https://img.shields.io/github/downloads/saltssaumure/fnf-osu-mania-skin/total?color=purple&label=GitHub%20downloads&style=flat-square)](https://github.com/Saltssaumure/fnf-osu-mania-skin/releases/latest "Latest Release")
+[![YouTube Views](https://img.shields.io/youtube/channel/views/UCsu0acaFicwDCwx5jh9rxvA?label=YouTube%20views&style=flat-square)](https://www.youtube.com/playlist?list=PLdcoCDNcPhI4YlBrp_zrndQF7mr-loBAx "osu!FNF playlist")
+![Total Size](https://img.shields.io/github/repo-size/saltssaumure/fnf-osu-mania-skin?style=flat-square)
+
 This is a skin for osu! in the style of Friday Night Funkin'.
 
 ## Skin preview
